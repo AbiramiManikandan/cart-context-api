@@ -19,7 +19,7 @@ From the above link, get JSON data and create a cart page with per item price, p
 
 ## Demo
 
-Check out the live project [here](https://arunkarthik0710-react-usecontext-task.netlify.app/).
+Check out the live project [here](https://silly-dasik-fff282.netlify.app/).
 
 ---
 
@@ -54,7 +54,7 @@ react-usecontext-task/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/arunkarthik0712/react-usecontext-task.git
+git clone https://github.com/AbiramiManikandan/cart-context-api.git
 ```
 
 2. Navigate to the project directory:
